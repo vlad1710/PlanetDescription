@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Planet Description</string>
+    <string name="logo">logo</string>
+    <string name="tools_logo">logo</string>
+
+    <string name="mercury">Mercury</string>
+    <string name="venus">Venus</string>
+    <string name="earth">Earth</string>
+    <string name="mars">Mars</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="saturn">Saturn</string>
+    <string name="uranus">Uranus</string>
+    <string name="neptune">Neptune</string>
+    <string name="pluto">Pluto</string>
+
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+    </string-array>
+
+    <string name="mercury_info"> The smallest planet in our solar system and nearest to the Sun, Mercury is only slightly larger than Earths Moon.
+        From the surface of Mercury, the Sun would appear more than three times as large as it does when viewed from Earth, and the sunlight would be as much as seven times brighter.
+        Despite its proximity to the Sun, Mercury is not the hottest planet in our solar system – that title belongs to nearby Venus, thanks to its dense atmosphere.
+        But Mercury is the fastest planet, zipping around the Sun every 88 Earth days.
+Mercury is appropriately named for the swiftest of the ancient Roman gods.</string>
+
+    <string name="venus_info">Venus is the second planet from the Sun and our closest planetary neighbor.
+        Similar in structure and size to Earth, Venus spins slowly in the opposite direction from most planets.
+        Its thick atmosphere traps heat in a runaway greenhouse effect, making it the hottest planet in our solar system with surface temperatures hot enough to melt lead.
+        Glimpses below the clouds reveal volcanoes and deformed mountains.
+Venus is named for the ancient Roman goddess of love and beauty, who was known as Aphrodite to the Ancient Greeks.</string>
+
+    <string name="earth_info">Our home planet is the third planet from the Sun, and the only place we know of so far thats inhabited by living things.
+While Earth is only the fifth largest planet in the solar system, it is the only world in our solar system with liquid water on the surface.
+        Just slightly larger than nearby Venus, Earth is the biggest of the four planets closest to the Sun, all of which are made of rock and metal.
+The name Earth is at least 1,000 years old. All of the planets, except for Earth, were named after Greek and Roman gods and goddesses.
+        However, the name Earth is a Germanic word, which simply means “the ground.”</string>
+
+    <string name="mars_info">The fourth planet from the Sun, Mars is a dusty, cold, desert world with a very thin atmosphere.
+This dynamic planet has seasons, polar ice caps, canyons, extinct volcanoes, and evidence that it was even more active in the past.
+Mars is one of the most explored bodies in our solar system, and its the only planet where weve sent rovers to roam the alien landscape.
+        NASA currently has three spacecraft in orbit, and it has one rover and one lander on the surface.
+        NASA launched the next-generation Perseverance rover to Mars on July 30, 2020. India and ESA have spacecraft in orbit above Mars.
+        These robotic explorers have found lots of evidence that Mars was much wetter and warmer, with a thicker atmosphere, billions of years ago.</string>
+
+    <string name="jupiter_info">Jupiter has a long history surprising scientists—all the way back to 1610 when Galileo Galilei found the first moons beyond Earth.
+        That discovery changed the way we see the universe.
+Fifth in line from the Sun, Jupiter is, by far, the largest planet in the solar system – more than twice as massive as all the other planets combined.
+Jupiters familiar stripes and swirls are actually cold, windy clouds of ammonia and water, floating in an atmosphere of hydrogen and helium.
+        Jupiters iconic Great Red Spot is a giant storm bigger than Earth that has raged for hundreds of years.
+One spacecraft — NASAs Juno orbiter — is currently exploring this giant world.</string>
+
+    <string name="saturn_info">Saturn is the sixth planet from the Sun and the second largest planet in our solar system.
+Adorned with thousands of beautiful ringlets, Saturn is unique among the planets.
+        It is not the only planet to have rings—made of chunks of ice and rock—but none are as spectacular or as complicated as Saturns.
+Like fellow gas giant Jupiter, Saturn is a massive ball made mostly of hydrogen and helium.</string>
+
+    <string name="uranus_info">The first planet found with the aid of a telescope, Uranus was discovered in 1781 by astronomer William Herschel, although he originally thought it was either a comet or a star.
+It was two years later that the object was universally accepted as a new planet, in part because of observations by astronomer Johann Elert Bode.
+        Herschel tried unsuccessfully to name his discovery Georgium Sidus after King George III.
+        Instead the scientific community accepted Bodes suggestion to name it Uranus, the Greek god of the sky, as suggested by Bode.</string>
+
+    <string name="neptune_info">Dark, cold and whipped by supersonic winds, ice giant Neptune is the eighth and most distant planet in our solar system.
+More than 30 times as far from the Sun as Earth, Neptune is the only planet in our solar system not visible to the naked eye and the first predicted by mathematics before its discovery.
+        In 2011 Neptune completed its first 165-year orbit since its discovery in 1846.
+NASAs Voyager 2 is the only spacecraft to have visited Neptune up close. It flew past in 1989 on its way out of the solar system.</string>
+
+    <string name="pluto_info">Pluto – which is smaller than Earths Moon – has a heart-shaped glacier thats the size of Texas and Oklahoma. This fascinating world has blue skies, spinning moons, mountains as high as the Rockies, and it snows – but the snow is red.
+On July 14, 2015, NASAs New Horizons spacecraft made its historic flight through the Pluto system – providing the first close-up images of Pluto and its moons and collecting other data that has transformed our understanding of these mysterious worlds on the solar systems outer frontier.
+In the years since that groundbreaking flyby, nearly every conjecture about Pluto possibly being an inert ball of ice has been thrown out the window or flipped on its head.
+“Its clear to me that the solar system saved the best for last!” said Alan Stern, New Horizons principal investigator from the Southwest Research Institute, Boulder, Colorado.
+        “We could not have explored a more fascinating or scientifically important planet at the edge of our solar system.
+        The New Horizons team worked for 15 years to plan and execute this flyby and Pluto paid us back in spades!”</string>
+</resources>
